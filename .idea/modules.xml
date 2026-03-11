@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Laboratorio Collections.iml" filepath="$PROJECT_DIR$/.idea/Laboratorio Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plataforma de Ventas Masivas/Plataforma de Ventas Masivas.iml" filepath="$PROJECT_DIR$/Plataforma de Ventas Masivas/Plataforma de Ventas Masivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sistema de Registro de Pacientes/Sistema de Registro de Pacientes.iml" filepath="$PROJECT_DIR$/Sistema de Registro de Pacientes/Sistema de Registro de Pacientes.iml" />
+    </modules>
+  </component>
+</project>

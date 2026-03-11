@@ -1,0 +1,28 @@
+public enum Categoria {
+
+    ELECTRONICA,
+    COMPUTACION,
+    TELEFONIA,
+
+    ELECTRODOMESTICOS,
+    MUEBLES,
+    DECORACION,
+
+    ROPA_HOMBRE,
+    ROPA_MUJER,
+    ROPA_NINOS,
+    CALZADO,
+
+    ALIMENTOS,
+    BEBIDAS,
+
+    MEDICAMENTOS,
+    CUIDADO_PERSONAL,
+
+
+    JUGUETES,
+    DEPORTES,
+    LIBROS,
+    PAPELERIA,
+    OTRO;
+}
